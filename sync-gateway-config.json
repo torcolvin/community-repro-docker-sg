@@ -1,7 +1,6 @@
 {
     "bootstrap": {
-        "server": "couchbase://cb-server",
-	"use_tls_server": false,
+        "server": "couchbases://cb-server",
         "server_tls_skip_verify": true,
         "username": "Administrator",
         "password": "password"
